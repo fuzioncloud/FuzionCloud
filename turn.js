@@ -23,6 +23,6 @@
               autoCenter: true
         });
     </script>
+      <footer> FOOTER </footer>
     </body>
-  <footer> FOOTER </footer>
 </html>
